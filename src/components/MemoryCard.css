@@ -6,8 +6,13 @@
   border-radius: 5px;
   border: 3px solid navy;
   cursor: pointer;
-  background: repeating-radial-gradient
-    (circle, purple, purple 10px, #4b026f 10px, #4b026f 20px);
+  background: repeating-radial-gradient(
+    circle,
+    purple,
+    purple 10px,
+    #4b026f 10px,
+    #4b026f 20px
+  );
 }
 
 .image {
