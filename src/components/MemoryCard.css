@@ -4,8 +4,12 @@
   height: 80px;
   margin: 3px;
   border-radius: 5px;
-  border: solid 3px navy;
+  border: 3px solid navy;
   cursor: pointer;
   background: repeating-radial-gradient
     (circle, purple, purple 10px, #4b026f 10px, #4b026f 20px);
+}
+
+.image {
+  padding-top: 13px;
 }
